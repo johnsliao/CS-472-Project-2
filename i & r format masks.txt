@@ -1,0 +1,12 @@
+# Keep bits 27-31: 0xFC000000
+# Keep bits 21-26: 0x3E00000
+# Keep bits 16-20: 0x1F0000
+# Keep bits 11-15: 0x7C00
+# Keep bits 6-10: 0x7C0
+# Keep bits 0-5: 0x3F
+
+# I-FORMAT
+# Keep bits 27-31: 0xFC000000
+# Keep bits 21-26: 0x3E00000
+# Keep bits 16-20: 0x1F0000
+# Keep bits 0-15: 0xFFFF
